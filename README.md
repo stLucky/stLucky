@@ -9,12 +9,11 @@
 <a target="_blank" href="https://t.me/stLuckkyy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&color=2ca5e0"/></a>
 <a target="_blank" href="https://linkedin.com/in/stlucky"><img src="https://img.shields.io/badge/LinkedIn-0077B5??style=flat&logo=linkedin&logoColor=white&color=0077b5"/></a>
 <a target="_blank" href="mailto:asys4759@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&color=d14836"/></a>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430" height="320" />
 <p> Люлю писать код. В настоящее время занимаюсь<br> 
   разработкой платформы сельского хозяйства на Vue js.</p>
 
-<h2 align="left" id="macropower-tech">Технологии, с которыми работал</h2>
-
+<h2>Технологии, с которыми работал</h2>
 <table>
   <tr>
     <td align="center" width="96">

@@ -5,8 +5,10 @@
 </h1>
 
 <img align="right" alt="GIF" src="code.gif" width="430" height="280" />
+
 <a target="_blank" href="https://github.com/stLucky"><img src="https://badges.pufler.dev/visits/stLucky/stLucky?style=flat&logoColor=white&color=25d366"/></a>
 <a href="https://wakatime.com/@55bb6db5-52d3-4da3-810c-2455f6cc6f89"><img src="https://wakatime.com/badge/user/55bb6db5-52d3-4da3-810c-2455f6cc6f89.svg" alt="Total time coded since Sep 11 2021" /></a>
+<br/>
 <a target="_blank" href="https://t.me/stLuckkyy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&color=2ca5e0"/></a>
 <a target="_blank" href="https://linkedin.com/in/stlucky"><img src="https://img.shields.io/badge/LinkedIn-0077B5??style=flat&logo=linkedin&logoColor=white&color=0077b5"/></a>
 <a target="_blank" href="https://twitter.com/LuckkySteven"><img src="https://img.shields.io/badge/Twitter-D14836?style=flat&logo=twitter&logoColor=white&color=2ca5e0"/></a>
@@ -23,51 +25,51 @@
 
 <h2 align="center">🛠 Языки и инструменты, с которыми работал</h2>
 <p align="center">
-  <a href="#">
+  <a href="https://github.com/topics/html">
     <img src="images/html5-original.svg" width="48" height="48" alt="HTML" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/topics/css">
     <img src="images/css3.svg" width="48" height="48" alt="CSS" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/topics/sass">
     <img src="images/sass-original.svg" width="48" height="48" alt="Sass" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/stylus/stylus">
     <img src="images/stylus-original.svg" width="48" height="48" alt="Stylus" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/topics/javascript">
     <img src="images/javascript-original.svg" width="48" height="48" alt="JavaScript" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/topics/jquery">
     <img src="images/jquery-original.svg" width="48" height="48" alt="JQuery" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/topics/typescript">
     <img src="images/typescript-original.svg" width="48" height="48" alt="TypeScript" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/topics/webpack">
     <img src="images/webpack-original.svg" width="48" height="48" alt="Webpack" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/topics/vue">
     <img src="images/vuejs-original.svg" width="48" height="48" alt="Vuejs" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/topics/react">
     <img src="images/react-original.svg" width="48" height="48" alt="React" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/facebook/jest">
     <img src="images/jest-plain.svg" width="48" height="48" alt="Jest" />
   </a>
   &nbsp;&nbsp;
-  <a href="#">
+  <a href="https://github.com/topics/gulp">
     <img src="images/gulp-plain.svg" width="48" height="48" alt="Gulp" />
   </a>
 </p>

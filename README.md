@@ -74,7 +74,7 @@
   </a>
 </p>
 
-<h2 align="center">📊 Немного статистики</h2>
+<h2 align="center">📊 Недельная статистика</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stluckky&layout=compact" />
